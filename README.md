@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHRIGOWRIKS
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on web developers
+- 💞️ I’m looking to collaborate on web development
 
 
 <!---
